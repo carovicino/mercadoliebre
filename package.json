@@ -8,7 +8,8 @@
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
-    "start": "node src/app.js"
+    "test": "nodemon index.js",
+    "start": "node app.js"
 
   },
   "repository": {
